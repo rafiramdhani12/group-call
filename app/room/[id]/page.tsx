@@ -4,7 +4,7 @@ import {ZegoUIKitPrebuilt} from "@zegocloud/zego-uikit-prebuilt";
 import {randomID} from "@/utils/helper";
 
 interface Props {
-  Params: {
+  params: {
     id: string;
   };
 }
